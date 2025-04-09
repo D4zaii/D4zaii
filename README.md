@@ -1,16 +1,41 @@
-## Hi there 👋
+# `👨💻` Hello, I'm D4zai
 
-<!--
-**D4zaii/D4zaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Bug Hunter** | **Red Team Learner** | **Security Researcher**  
+> *Computer Engineering Student | CTF Player | Certifications in Progress*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `🛠️` **Skills & Interests**
+- `🐛` **Bug Bounty**
+- `🔴` **Red Team**
+- `📜` **Certifications in Progress**:  
+  - **Burp Suite Certified Practitioner (BSCP)** `(⌛ Preparing)`  
+  - **Certified Bug Bounty Hunter (CBBH)** `(🚀 Next Goal)`  
+- `💡` **Reverse Engineering**
+- `📚` **Student**:  
+  - 🎓 **Computer Engineering**
+  - 🏫 **Courses**:  
+    - ✅ **"Introducción al Hacking"** @ [Hack4u](https://hack4u.io/)  
+    - 📖 **"Offensive Security - Red Team Operators"** @ [Hackademy](https://ekoparty.org/hackademy/) (Eko Party)  
+
+---
+
+### `🔥` **CTF & Challenges**
+- `🛡️` **Active on HackTheBox**
+
+---
+
+### `📝` **Blog & Research**
+- **Blog en progreso** `(🔜 Coming Soon)`  
+  - 📌 *Planned Topics: Bug Bounty Writeups, Red Team Techniques*  
+
+---
+
+### `📫` **Connect**
+- Twitter: [@YourHandle](https://twitter.com/YourHandle) `🐦`  
+- LinkedIn: [YourProfile](https://linkedin.com/in/YourProfile) `💼`  
+- HTB Profile: [YourHTB](https://app.hackthebox.com/profile/123456) `🖥️`  
+
+---
+
+`⚠️` *Disclaimer: All research/projects are for educational purposes only.*  
