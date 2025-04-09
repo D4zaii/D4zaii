@@ -8,6 +8,8 @@
 ### `🛠️` **Skills & Interests**
 - `🐛` **Bug Bounty**
 - `🔴` **Red Team**
+- `💻` **Programming**:  
+  - `🐍` Python | Bash | Go | `🦀` Rust *(Learning)*
 - `📜` **Certifications in Progress**:  
   - **Burp Suite Certified Practitioner (BSCP)** `(⌛ Preparing)`  
   - **Certified Bug Bounty Hunter (CBBH)** `(🚀 Next Goal)`  
