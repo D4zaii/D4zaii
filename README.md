@@ -27,7 +27,7 @@
 
 ### `📝` **Blog & Research**
 - **Blog en progreso** `(🔜 Coming Soon)`  
-  - 📌 *Planned Topics: Bug Bounty Writeups, Red Team Techniques*  
+  - 📌 *Planned Topics: Bug Bounty Writeups and methodologies, Red Team Techniques and how university-level Computer Engineering concepts translate into offensive security practices.*  
 
 ---
 
