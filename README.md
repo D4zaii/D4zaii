@@ -10,7 +10,7 @@
 - `🔴` **Red Team**
 - `💻` **Programming**:  
   - `🐍` Python | Bash | Go | `🦀` Rust *(Learning)*
-- `📜` **Certifications in Progress**:  
+- `📜` **Certifications**:  
   - **Burp Suite Certified Practitioner (BSCP)** `(⌛ Preparing)`  
   - **Certified Bug Bounty Hunter (CBBH)** `(🚀 Next Goal)`  
 - `💡` **Reverse Engineering**
