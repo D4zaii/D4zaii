@@ -1,24 +1,21 @@
 # `👨💻` Hello, I'm D4zai
 
-> **Bug Hunter** | **Red Team Learner** | **Security Researcher**  
-> *Computer Engineering Student | CTF Player | Certifications in Progress*
+> **Bug Hunter** | **Red Team** | **Reverse Engineering**
+> *Computer Engineering Student | Certifications in Progress*
 
 ---
 
 ### `🛠️` **Skills & Interests**
-- `🐛` **Bug Bounty**
-- `🔴` **Red Team**
-- `💻` **Programming**:  
-  - `🐍` Python | Bash | Go | `🦀` Rust *(Learning)*
-- `📜` **Certifications**:  
-  - **Burp Suite Certified Practitioner (BSCP)** `(⌛ Preparing)`  
-  - **Certified Bug Bounty Hunter (CBBH)** `(🚀 Next Goal)`  
-- `💡` **Reverse Engineering**
+- **Bug Bounty**
+- **Red Team**
+- **Programming**:  
+  - Python | Bash | Go | Rust *(Learning)*
+- **Reverse Engineering**
 - `📚` **Student**:  
-  - 🎓 **Computer Engineering**
-  - 🏫 **Courses**:  
+  - **Computer Engineering**
+  - **Courses**:  
     - ✅ **"Introducción al Hacking"** @ [Hack4u](https://hack4u.io/)  
-    - 📖 **"Offensive Security - Red Team Operators"** @ [Hackademy](https://ekoparty.org/hackademy/) (Eko Party)  
+    - ✅ **"Offensive Security - Red Team Operators"** @ [Hackademy](https://ekoparty.org/hackademy/) (Eko Party)  
 
 ---
 
