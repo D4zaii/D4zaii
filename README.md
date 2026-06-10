@@ -9,8 +9,7 @@ malware development in Rust or C++ and reverse engineering.
 ---
 
 ## Active areas
-- **Pentester** - BurpSuite
-- **Red Team / Adversary Simulation** — tooling, C2, evasion
+- **Red Team** — Web Apps, AD, Mobile, C2, evasion
 - **Malware Development** — Rust, C++, Windows internals, Linux internals, syscalls, EDR bypass
 - **Reverse Engineering** — Ghidra, IDA, x86/x64, binary analysis
 
