@@ -1,40 +1,24 @@
-# `👨💻` Hello, I'm D4zai
+# D4zai
 
-> **Bug Hunter** | **Red Team** | **Reverse Engineering**
-> *Computer Engineering Student | Certifications in Progress*
+OffSecAnalyst@Telefónica.  
+Studying Computer Engineering@UNLAM.  
 
----
-
-### `🛠️` **Skills & Interests**
-- **Bug Bounty**
-- **Red Team**
-- **Programming**:  
-  - Python | Bash | Go | Rust *(Learning)*
-- **Reverse Engineering**
-- `📚` **Student**:  
-  - **Computer Engineering**
-  - **Courses**:  
-    - ✅ **"Introducción al Hacking"** @ [Hack4u](https://hack4u.io/)  
-    - ✅ **"Offensive Security - Red Team Operators"** @ [Hackademy](https://ekoparty.org/hackademy/) (Eko Party)  
+I document what I learn: red team techniques, EDR evasion,
+malware development in Rust or C++, reverse engineering, and bug bounty methodology.
 
 ---
 
-### `🔥` **CTF & Challenges**
-- `🛡️` **Active on HackTheBox**
+## Active areas
+- **Pentester** - BurpSuite
+- **Red Team / Adversary Simulation** — tooling, C2, evasion
+- **Malware Development** — Rust, C++, Windows internals, Linux internals, syscalls, EDR bypass
+- **Reverse Engineering** — Ghidra, IDA, x86/x64, binary analysis
 
----
+## Training & certifications
 
-### `📝` **Blog & Research**
-- **Blog en progreso** `(🔜 Coming Soon)`  
-  - 📌 *Planned Topics: Bug Bounty Writeups and methodologies, Red Team Techniques and how university-level Computer Engineering concepts translate into offensive security practices.*  
+- ✅ Introducción al Hacking — [Hack4u](https://hack4u.io/)
+- ✅ Offensive Security Red Team Operators — [Hackademy @ EkoParty](https://ekoparty.org/hackademy/)
 
----
+## Find me
 
-### `📫` **Connect**
-- Twitter: [@YourHandle](https://twitter.com/YourHandle) `🐦`  
-- LinkedIn: [YourProfile](https://linkedin.com/in/YourProfile) `💼`  
-- HTB Profile: [YourHTB](https://app.hackthebox.com/profile/123456) `🖥️`  
-
----
-
-`⚠️` *Disclaimer: All research/projects are for educational purposes only.*  
+[X / Twitter](https://twitter.com/_D4zai)
