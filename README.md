@@ -4,7 +4,7 @@ OffSecAnalyst@Telefónica.
 Studying Computer Engineering@UNLAM.  
 
 I document what I learn: red team techniques, EDR evasion,
-malware development in Rust or C++, reverse engineering, and bug bounty methodology.
+malware development in Rust or C++ and reverse engineering.
 
 ---
 
